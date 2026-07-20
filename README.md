@@ -1,6 +1,6 @@
-# Microsoft 365 Copilot and Agent Exercises for BP Oil and Gas
+# Microsoft 365 Copilot and Agent Exercises
 
-This repository contains a GitHub Pages-ready training site for a BP-style Microsoft 365 Copilot and Agent workbook.
+This repository contains a GitHub Pages-ready training site for Microsoft 365 Copilot and Agent workbook.
 
 ## Site structure
 

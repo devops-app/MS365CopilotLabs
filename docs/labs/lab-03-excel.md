@@ -1,8 +1,8 @@
 ---
-title: Lab 3 - Analyze BP-style operational data with Copilot in Excel
+title: Lab 3 - Analyze operational data with Copilot in Excel
 ---
 
-# Lab 3 - Analyze BP-style operational data with Copilot in Excel
+# Lab 3 - Analyze operational data with Copilot in Excel
 
 [← Previous: Lab 2](lab-02-word.md) | [Back to Home](../index.md) | [Next: Lab 4 →](lab-04-powerpoint.md)
 
@@ -12,7 +12,7 @@ Before starting, remind learners that data quality affects Copilot output. Point
 
 ## Scenario
 
-Imagine you are reviewing monthly operating metrics for BP retail stations, terminals, and refinery units. The sample workbook contains fields such as Month, Site, Region, Product, Throughput, Maintenance Hours, Safety Observations, Energy Consumption, Emissions Estimate, and Customer Satisfaction Score.
+Imagine you are reviewing monthly operating metrics for Company retail stations, terminals, and refinery units. The sample workbook contains fields such as Month, Site, Region, Product, Throughput, Maintenance Hours, Safety Observations, Energy Consumption, Emissions Estimate, and Customer Satisfaction Score.
 
 ## Example columns
 

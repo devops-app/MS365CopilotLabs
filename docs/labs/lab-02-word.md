@@ -12,7 +12,7 @@ Demonstrate how Copilot can help move from a blank page to a structured first dr
 
 ## Scenario
 
-Imagine you are preparing a project report for a BP regional operations review. Your goal is to create a clear Word document that summarizes a planned turnaround readiness initiative for a refinery, including objectives, risks, stakeholder communications, and expected business outcomes.
+Imagine you are preparing a project report for a company regional operations review. Your goal is to create a clear Word document that summarizes a planned turnaround readiness initiative for a refinery, including objectives, risks, stakeholder communications, and expected business outcomes.
 
 ## Lab steps
 
@@ -20,7 +20,7 @@ Imagine you are preparing a project report for a BP regional operations review. 
 2. Select the Copilot drafting experience.
 3. Enter the prompt:
 
-   > Create a project report for a BP refinery turnaround readiness initiative. Include an executive summary, background, project objectives, operational risks, safety considerations, stakeholder communication plan, and next steps.
+   > Create a project report for a company refinery turnaround readiness initiative. Include an executive summary, background, project objectives, operational risks, safety considerations, stakeholder communication plan, and next steps.
 
 4. Review the drafted report and keep the content if it is suitable.
 5. Select the Operational Risks paragraph and ask Copilot:

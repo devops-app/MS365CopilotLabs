@@ -1,10 +1,10 @@
 ---
-title: Microsoft 365 Copilot and Agent Exercises for BP Oil and Gas
+title: Microsoft 365 Copilot and Agent Exercises
 ---
 
-# Microsoft 365 Copilot and Agent Exercises for BP Oil and Gas
+# Microsoft 365 Copilot and Agent Exercises
 
-These hands-on exercises adapt the Microsoft 365 Copilot and agent lab-guide style for a BP oil and gas business context. The scenarios focus on common energy-industry workflows such as operational performance, safety communications, field maintenance coordination, emissions reporting, project updates, executive briefings, and knowledge support across Microsoft 365 apps.
+These hands-on exercises adapt the Microsoft 365 Copilot and agent lab-guide style for a company business context. The scenarios focus on common energy-industry workflows such as operational performance, safety communications, field maintenance coordination, emissions reporting, project updates, executive briefings, and knowledge support across Microsoft 365 apps.
 
 > **Important:** These exercises are designed for training and demonstration purposes. Replace all sample data, file names, assets, and business scenarios with approved BP training content before delivering the labs in a production or customer environment.
 

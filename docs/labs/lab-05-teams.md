@@ -1,8 +1,8 @@
 ---
-title: Lab 5 - Prepare and follow up on a BP operations meeting with Copilot in Teams
+title: Lab 5 - Prepare and follow up on a company operations meeting with Copilot in Teams
 ---
 
-# Lab 5 - Prepare and follow up on a BP operations meeting with Copilot in Teams
+# Lab 5 - Prepare and follow up on a company operations meeting with Copilot in Teams
 
 [← Previous: Lab 4](lab-04-powerpoint.md) | [Back to Home](../index.md) | [Next: Lab 6 →](lab-06-outlook.md)
 
@@ -12,7 +12,7 @@ This lab should highlight meeting preparation, in-meeting support, and post-meet
 
 ## Scenario
 
-Imagine you are joining a Teams meeting for a BP refinery turnaround readiness review. The meeting includes discussion about contractor readiness, safety permits, inventory, maintenance windows, and decision points for leadership escalation.
+Imagine you are joining a Teams meeting for a company refinery turnaround readiness review. The meeting includes discussion about contractor readiness, safety permits, inventory, maintenance windows, and decision points for leadership escalation.
 
 ## Lab steps
 

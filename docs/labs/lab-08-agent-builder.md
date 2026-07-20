@@ -1,8 +1,8 @@
 ---
-title: Lab 8 - Create a BP operations knowledge agent with Agent Builder
+title: Lab 8 - Create a company operations knowledge agent with Agent Builder
 ---
 
-# Lab 8 - Create a BP operations knowledge agent with Agent Builder
+# Lab 8 - Create a company operations knowledge agent with Agent Builder
 
 [← Previous: Lab 7](lab-07-agents.md) | [Back to Home](../index.md) | [Next: Lab 9 →](lab-09-copilot-studio.md)
 
@@ -12,7 +12,7 @@ This lab introduces simple agent creation for a bounded business process. Emphas
 
 ## Scenario
 
-Imagine you want to create a Microsoft 365 Copilot Chat agent that helps BP employees find approved information about turnaround readiness, maintenance planning, HSE checkpoints, and escalation processes. The agent should be useful for operations coordinators, project managers, and site leadership.
+Imagine you want to create a Microsoft 365 Copilot Chat agent that helps company employees find approved information about turnaround readiness, maintenance planning, HSE checkpoints, and escalation processes. The agent should be useful for operations coordinators, project managers, and site leadership.
 
 ## Lab steps
 
@@ -20,12 +20,12 @@ Imagine you want to create a Microsoft 365 Copilot Chat agent that helps BP empl
 2. Select New agent.
 3. Enter:
 
-   > Create an agent named BP Turnaround Readiness Assistant. It helps operations teams find approved guidance on maintenance planning, contractor readiness, safety permit checkpoints, materials availability, risk escalation, and meeting preparation. The audience is BP operations coordinators, project managers, and site leadership.
+   > Create an agent for company Turnaround Readiness Assistant. It helps operations teams find approved guidance on maintenance planning, contractor readiness, safety permit checkpoints, materials availability, risk escalation, and meeting preparation. The audience is company operations coordinators, project managers, and site leadership.
 
 4. Review the generated agent description and refine it if needed.
 5. Configure instructions such as:
 
-   > Answer using only approved knowledge sources. If information is missing, say that the user should consult the official BP procedure or site leadership. Use a concise, safety-conscious, professional tone.
+   > Answer using only approved knowledge sources. If information is missing, say that the user should consult the official company procedure or site leadership. Use a concise, safety-conscious, professional tone.
 
 6. Add approved SharePoint or OneDrive files as knowledge sources, if available.
 7. Test the agent with starter prompts such as:

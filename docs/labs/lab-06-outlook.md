@@ -1,8 +1,8 @@
 ---
-title: Lab 6 - Supercharge BP email workflows with Copilot in Outlook
+title: Lab 6 - Supercharge company email workflows with Copilot in Outlook
 ---
 
-# Lab 6 - Supercharge BP email workflows with Copilot in Outlook
+# Lab 6 - Supercharge Company email workflows with Copilot in Outlook
 
 [← Previous: Lab 5](lab-05-teams.md) | [Back to Home](../index.md) | [Next: Lab 7 →](lab-07-agents.md)
 
@@ -12,7 +12,7 @@ Use this lab to demonstrate inbox triage, thread summarization, drafting, tone a
 
 ## Scenario
 
-Imagine your inbox contains multiple email threads about a BP terminal maintenance issue, including updates from operations, HSE, procurement, and contractor teams. You need to summarize the discussion, draft a professional response, and schedule a follow-up meeting if required.
+Imagine your inbox contains multiple email threads about a company terminal maintenance issue, including updates from operations, HSE, procurement, and contractor teams. You need to summarize the discussion, draft a professional response, and schedule a follow-up meeting if required.
 
 ## Lab steps
 

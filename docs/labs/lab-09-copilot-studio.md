@@ -1,8 +1,8 @@
 ---
-title: Lab 9 - Create a BP knowledge-support agent in Microsoft Copilot Studio
+title: Lab 9 - Create a company knowledge-support agent in Microsoft Copilot Studio
 ---
 
-# Lab 9 - Create a BP knowledge-support agent in Microsoft Copilot Studio
+# Lab 9 - Create a company knowledge-support agent in Microsoft Copilot Studio
 
 [← Previous: Lab 8](lab-08-agent-builder.md) | [Back to Home](../index.md)
 
@@ -12,7 +12,7 @@ Use Copilot Studio to show more controlled agent development, including descript
 
 ## Scenario
 
-In this exercise, you create a Copilot Studio agent for a BP-style employee knowledge-support scenario. The agent helps users ask questions about approved operational guidance, safety reminders, service-desk routing, and training resources.
+In this exercise, you create a Copilot Studio agent for a company-style employee knowledge-support scenario. The agent helps users ask questions about approved operational guidance, safety reminders, service-desk routing, and training resources.
 
 ## Lab steps
 
@@ -21,11 +21,11 @@ In this exercise, you create a Copilot Studio agent for a BP-style employee know
 3. Create a new agent using natural language.
 4. Use this description:
 
-   > Create an agent named BP Operations Support Agent. The agent helps employees find training resources, maintenance readiness guidance, HSE reminders, and escalation contacts for operational support scenarios. It should respond in a professional, safety-conscious tone and avoid giving instructions beyond approved knowledge sources.
+   > Create an agent named company Operations Support Agent. The agent helps employees find training resources, maintenance readiness guidance, HSE reminders, and escalation contacts for operational support scenarios. It should respond in a professional, safety-conscious tone and avoid giving instructions beyond approved knowledge sources.
 
 5. Add instructions:
 
-   > Always remind users to follow official BP procedures, local regulations, and site-specific safety requirements. If the question involves an emergency, direct the user to follow the official emergency response process.
+   > Always remind users to follow official company procedures, local regulations, and site-specific safety requirements. If the question involves an emergency, direct the user to follow the official emergency response process.
 
 6. Add an approved public website or internal knowledge source for training demonstration purposes.
 7. Test the agent with prompts such as:
