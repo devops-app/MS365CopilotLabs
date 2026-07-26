@@ -24,28 +24,28 @@ Use this workbook during the instructor-led session to follow each lab, capture 
 
 | Lab | Title |
 |---|---|
-| — | [Overview](labs/00_Overview.md) |
-| 00 | [Set up your training files](labs/Lab_00_Set_up_your_training_files.md) |
-| 01 | [Explore Copilot Chat with work-grounded files](labs/Lab_01_Explore_Copilot_Chat_with_work_grounded_files.md) |
-| 02 | [Draft, improve, and summarize a document with Copilot in Word](labs/Lab_02_Draft_improve_and_summarize_a_document_with_Copilot_in_Word.md) |
-| 03 | [Build an executive presentation with Copilot in PowerPoint](labs/Lab_03_Build_an_executive_presentation_with_Copilot_in_PowerPoint.md) |
-| 04 | [Manage email and follow-up actions with Copilot in Outlook](labs/Lab_04_Manage_email_and_follow_up_actions_with_Copilot_in_Outlook.md) |
-| 05 | [Prepare, recap, and follow up from meetings with Copilot in Teams](labs/Lab_05_Prepare_recap_and_follow_up_from_meetings_with_Copilot_in_Teams.md) |
-| 06 | [Analyze procurement spend with Copilot in Excel](labs/Lab_06_Analyze_procurement_spend_with_Copilot_in_Excel.md) |
-| 07 | [Analyze HSSE performance with Copilot in Excel](labs/Lab_07_Analyze_HSSE_performance_with_Copilot_in_Excel.md) |
-| 08 | [Optional: Turn meeting notes into reusable knowledge with Copilot Pages and Notebook](labs/Lab_08_Optional_Turn_meeting_notes_into_reusable_knowledge_with_Copilot_Pages_an.md) |
-| 09 | [Use built-in agents with Researcher and Analyst](labs/Lab_09_Use_built_in_agents_with_Researcher_and_Analyst.md) |
-| 10 | [Create a knowledge agent with Agent Builder](labs/Lab_10_Create_a_knowledge_agent_with_Agent_Builder.md) |
-| 11 | [Optional: Design and test an agent with Copilot Studio](labs/Lab_11_Optional_Design_and_test_an_agent_with_Copilot_Studio.md) |
-| — | [Optional Capstone: Create a complete leadership briefing pack](labs/Optional_Capstone_Create_a_complete_leadership_briefing_pack.md) |
+| — | [Overview](labs/00_overview_course_lab_overview_and_sample_data_inventory.md) |
+| 00 | [Set up your training files](labs/lab_00_set_up_your_training_files.md) |
+| 01 | [Explore Copilot Chat with work-grounded files](labs/lab_01_explore_copilot_chat_with_work_grounded_files.md) |
+| 02 | [Draft, improve, and summarize a document with Copilot in Word](labs/lab_02_draft_improve_and_summarize_a_document_with_copilot_in_word.md) |
+| 03 | [Build an executive presentation with Copilot in PowerPoint](labs/lab_03_build_an_executive_presentation_with_copilot_in_powerpoint.md) |
+| 04 | [Manage email and follow-up actions with Copilot in Outlook](labs/lab_04_manage_email_and_follow_up_actions_with_copilot_in_outlook.md) |
+| 05 | [Prepare, recap, and follow up from meetings with Copilot in Teams](labs/lab_05_prepare_recap_and_follow_up_from_meetings_with_copilot_in_teams.md) |
+| 06 | [Analyze procurement spend with Copilot in Excel](labs/lab_06_analyze_procurement_spend_with_copilot_in_excel.md) |
+| 07 | [Analyze HSSE performance with Copilot in Excel](labs/lab_07_analyze_hsse_performance_with_copilot_in_excel.md) |
+| 08 | [Optional: Turn meeting notes into reusable knowledge with Copilot Pages and Notebook](labs/lab_08_optional_turn_meeting_notes_into_reusable_knowledge_with_copilot_pages_and_notebook.md) |
+| 09 | [Use built-in agents with Researcher and Analyst](labs/lab_09_use_built_in_agents_with_researcher_and_analyst.md) |
+| 10 | [Create a knowledge agent with Agent Builder](labs/lab_10_create_a_knowledge_agent_with_agent_builder.md) |
+| 11 | [Optional: Design and test an agent with Copilot Studio](labs/lab_11_optional_design_and_test_an_agent_with_copilot_studio.md) |
+| — | [Optional Capstone: Create a complete leadership briefing pack](labs/optional_capstone_create_a_complete_leadership_briefing_pack.md) |
 
 ## Reference
 
 - [Copilot Training Lab Workbook](reference/Copilot_Training_Lab_Workbook.docx) — Full participant workbook (Word document).
 - [Microsoft 365 Copilot Prompt Library](reference/microsoft-365-copilot-prompt-library.md) — Copy-ready prompts for Word, Excel, PowerPoint, Outlook, and Teams.
-- [Appendix A: Prompting Pattern Reference](labs/Appendix_A_Prompting_Pattern_Reference.md) — Quick reference for effective Copilot prompting patterns.
-- [Appendix B: Instructor Debrief Questions](labs/Appendix_B_Instructor_Debrief_Questions.md) — Debrief questions for instructors.
-- [Appendix C: Safety and Data Handling Reminders](labs/Appendix_C_Safety_and_Data_Handling_Reminders.md) — Safety reminders for training environments.
+- [Appendix A: Prompting Pattern Reference](labs/appendix_a_prompting_pattern_reference.md) — Quick reference for effective Copilot prompting patterns.
+- [Appendix B: Instructor Debrief Questions](labs/appendix_b_instructor_debrief_questions.md) — Debrief questions for instructors.
+- [Appendix C: Safety and Data Handling Reminders](labs/appendix_c_safety_and_data_handling_reminders.md) — Safety reminders for training environments.
 
 ## Sample Data Assets
 
@@ -83,4 +83,4 @@ Download the workbook and all sample data files below.
 
 The optional capstone exercise combines skills from Word, Excel, PowerPoint, and agent tools into a complete leadership-ready briefing pack.
 
-- See [Optional Capstone: Create a complete leadership briefing pack](labs/Capstone.md)
+- See [Optional Capstone: Create a complete leadership briefing pack](labs/optional_capstone_create_a_complete_leadership_briefing_pack.md)
