@@ -41,8 +41,7 @@ Use this workbook during the instructor-led session to follow each lab, capture 
 ## Reference
 
 - [Copilot Training Lab Workbook](reference/Copilot_Training_Lab_Workbook.docx) — Full participant workbook (Word document).
-- [Appendix A: Prompting Pattern Reference](labs/Appendix_A.md) — Quick reference for effective Copilot prompting patterns.
-- [Appendix B & C: Instructor Debrief and Safety](labs/Appendix_B_C.md) — Debrief questions and safety reminders for instructors.
+- [Lab Markdown File Index](labs/README_Lab_MD_Index.md) — Complete index of all lab Markdown files generated from the workbook.
 
 ## Sample Data Assets
 
