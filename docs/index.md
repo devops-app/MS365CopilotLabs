@@ -41,7 +41,6 @@ Use this workbook during the instructor-led session to follow each lab, capture 
 ## Reference
 
 - [Copilot Training Lab Workbook](reference/Copilot_Training_Lab_Workbook.docx) — Full participant workbook (Word document).
-- [Lab Markdown File Index](labs/README_Lab_MD_Index.md) — Complete index of all lab Markdown files generated from the workbook.
 - [Microsoft 365 Copilot Prompt Library](reference/microsoft-365-copilot-prompt-library.md) — Copy-ready prompts for Word, Excel, PowerPoint, Outlook, and Teams.
 
 ## Sample Data Assets
