@@ -24,6 +24,7 @@ Your team must prepare a leadership-ready briefing pack for the mock Energy Data
 
 ## Suggested capstone prompt sequence
 
+```
 Step 1: Summarize the project, procurement workbook, HSSE workbook, and cost workbook into a single leadership briefing outline.
 
 Step 2: Create the executive report in Word using the outline.
@@ -35,6 +36,7 @@ Step 4: Create a PowerPoint presentation for leadership review.
 Step 5: Build or design an agent that answers questions from the approved knowledge documents.
 
 Step 6: Test the agent and document improvements.
+```
 
 > **Note:** Additional prompt library: For more capstone prompt ideas, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts across Word, Excel, PowerPoint, meetings, research, agents, validation, and executive communication.
 

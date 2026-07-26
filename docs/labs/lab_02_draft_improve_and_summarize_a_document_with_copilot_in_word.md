@@ -21,6 +21,7 @@ You are preparing an executive project report for the Energy Data Platform initi
 
 - [ ] Submit the following prompt.
 
+```
 Create an executive project report using the linked project charter as the source.
 
 Include these sections:
@@ -34,6 +35,7 @@ Include these sections:
 - Next Steps
 
 Use professional language suitable for Contoso Energy leadership training.
+```
 
 - [ ] Review the generated draft.
 
@@ -49,12 +51,14 @@ Use professional language suitable for Contoso Energy leadership training.
 
 - [ ] Use the following prompt to improve the text.
 
+```
 Rewrite this section for a senior management audience.
 
 Make each risk specific.
 Explain why each risk matters.
 Include mitigation actions where available.
 Keep the tone clear, professional, and concise.
+```
 
 ## Exercise 3 - Convert recommendations into a table
 
@@ -64,6 +68,7 @@ Keep the tone clear, professional, and concise.
 
 - [ ] Submit the following prompt.
 
+```
 Convert the recommendations into a table.
 
 Use these columns:
@@ -72,6 +77,7 @@ Use these columns:
 - Owner or accountable role
 - Priority
 - Decision required
+```
 
 ## Exercise 4 - Summarize the final document
 
@@ -81,6 +87,7 @@ Use these columns:
 
 - [ ] Add the summary to the end of the document if the output is useful.
 
+```
 Summarize this report for a leader who has only two minutes to read it.
 
 Highlight:
@@ -88,6 +95,7 @@ Highlight:
 - Key risks
 - Decisions required
 - Immediate next actions
+```
 
 > **Note:** Additional prompt library: For more Word prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for drafting, rewriting, summarizing, improving tone, and converting content into tables.
 

@@ -21,6 +21,7 @@ Plan what context should be preserved in a Copilot Notebook.
 
 ## Exercise 1 - Extract meeting outcomes
 
+```
 Summarize /04_Mock_Meeting_Notes_Operations_Performance.docx.
 
 Create sections for:
@@ -29,9 +30,11 @@ Create sections for:
 - Risks and blockers
 - Action items with owner and due date
 - Follow-up message for stakeholders
+```
 
 ## Exercise 2 - Create a collaborative brief
 
+```
 Organize the meeting output into a collaborative project brief.
 
 Use this structure:
@@ -41,9 +44,11 @@ Use this structure:
 - Actions
 - Risks
 - Next discussion topics
+```
 
 ## Exercise 3 - Design a Notebook context plan
 
+```
 Recommend what should be included in a Copilot Notebook for this project.
 
 List:
@@ -52,6 +57,7 @@ List:
 - Decisions to maintain
 - Risks to monitor
 - Weekly update questions
+```
 
 > **Note:** Additional prompt library: For more Copilot Pages, Notebook, and reusable knowledge prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for organizing notes, creating briefs, preserving context, and planning recurring updates.
 

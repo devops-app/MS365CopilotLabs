@@ -13,6 +13,7 @@ You are preparing a short HSSE performance update for leadership using mock KPI 
 
 ## Exercise 1 - Summarize HSSE performance
 
+```
 Summarize HSSE performance in this workbook.
 
 Focus on:
@@ -21,9 +22,11 @@ Focus on:
 - Safety walks
 - Training completion
 - Open and closed actions
+```
 
 ## Exercise 2 - Create trend charts
 
+```
 Create charts showing trends for:
 - Recordable incidents
 - Near-miss reports
@@ -31,9 +34,11 @@ Create charts showing trends for:
 - Training completion percentage
 
 Place the charts on a new worksheet named HSSE Dashboard.
+```
 
 ## Exercise 3 - Generate a leadership briefing
 
+```
 Create a short HSSE leadership briefing based on this workbook.
 
 Include:
@@ -42,6 +47,7 @@ Include:
 - Areas requiring attention
 - Recommended actions
 - Questions for leadership
+```
 
 > **Note:** Additional prompt library: For more Excel prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for KPI analysis, trend charts, leadership briefings, risk summaries, and validation checks.
 

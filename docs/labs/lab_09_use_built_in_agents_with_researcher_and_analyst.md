@@ -31,6 +31,7 @@ Validate outputs by checking source coverage, assumptions, and unsupported claim
 
 ## Exercise 2 - Use Researcher for a multi-source briefing
 
+```
 Use Researcher to prepare a leadership briefing on the mock Energy Data Platform initiative.
 
 Use these sources:
@@ -46,6 +47,7 @@ Create a structured briefing with:
 - Recommended next actions
 
 Clearly separate facts from assumptions and mention which source supports each major finding where possible.
+```
 
 ### Expected result
 
@@ -57,6 +59,7 @@ Decision points are written for a leadership audience rather than as raw notes.
 
 ## Exercise 3 - Use Analyst for spreadsheet insight
 
+```
 Use Analyst to examine /08_Mock_Procurement_Spend_Analysis.xlsx.
 
 Analyze:
@@ -67,6 +70,7 @@ Analyze:
 - Recommended management actions
 
 Return the answer as a table and include a short explanation of the analysis steps used.
+```
 
 ## Exercise 4 - Compare Researcher, Analyst, and Copilot Chat
 

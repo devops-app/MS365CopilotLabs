@@ -29,6 +29,7 @@ Validate generated replies before sending.
 
 - [ ] Use Copilot to summarize the thread.
 
+```
 Summarize this email thread for a project manager.
 
 Include:
@@ -38,9 +39,11 @@ Include:
 - Risks or blockers
 - Action items with owner and due date if available
 - Suggested next reply
+```
 
 ## Exercise 2 - Draft a stakeholder reply
 
+```
 Draft a concise reply to the thread.
 
 Tone: professional and action-oriented.
@@ -52,9 +55,11 @@ The reply should:
 - Ask for missing decisions or owners
 - Mention that the content is based on mock training data
 - Avoid adding unsupported facts
+```
 
 ## Exercise 3 - Create a follow-up action tracker
 
+```
 From this email thread, create an action tracker.
 
 Use these columns:
@@ -64,6 +69,7 @@ Use these columns:
 - Priority
 - Dependency
 - Recommended follow-up message
+```
 
 > **Note:** Additional prompt library: For more Outlook prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for email summaries, stakeholder replies, follow-up messages, inbox prioritization, and action tracking.
 

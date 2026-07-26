@@ -33,12 +33,14 @@ Energy Operations Knowledge Assistant helps users answer questions about the moc
 
 ## Exercise 3 - Configure instructions
 
+```
 Answer only from the uploaded knowledge sources.
 Do not fabricate policies, names, figures, or operational procedures.
 If the requested information is not available, respond:
 "I cannot find that information in my knowledge source. Please verify with the responsible business owner."
 Do not provide emergency, legal, medical, or real production-control instructions.
 Keep answers concise and cite or mention the source document when possible.
+```
 
 ## Exercise 4 - Test the agent
 
@@ -51,8 +53,10 @@ Keep answers concise and cite or mention the source document when possible.
 
 ## Exercise 5 - Optional: Improve the agent
 
+```
 Review the failed or weak test responses.
 Suggest three improvements to the agent instructions or knowledge source content.
 Return the result as a table with Issue, Improvement, and Reason.
+```
 
 > **Note:** Additional prompt library: For more Agent Builder prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for agent instructions, knowledge grounding, test cases, fallback behavior, and improvement planning.

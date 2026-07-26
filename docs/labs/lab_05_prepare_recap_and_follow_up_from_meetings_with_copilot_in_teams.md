@@ -29,6 +29,7 @@ Validate meeting outputs before sharing with stakeholders.
 
 ## Exercise 1 - Prepare for a meeting
 
+```
 I am attending a project performance review meeting.
 
 Using /01_Mock_Project_Charter_Energy_Data_Platform.docx, prepare me for the discussion.
@@ -41,6 +42,7 @@ Include:
 - Decisions that may require management attention
 
 Return the response as a meeting preparation briefing.
+```
 
 ## Optional Exercise - Run a live Teams meeting for facilitator practice
 
@@ -60,6 +62,7 @@ Facilitator sample speech: Welcome everyone to this mock operational performance
 
 ## Exercise 2 - Generate a meeting recap
 
+```
 Use /04_Mock_Meeting_Notes_Operations_Performance.docx to generate the meeting recap.
 
 Include:
@@ -71,9 +74,11 @@ Include:
 - Recommended next actions
 
 Use an executive meeting recap format.
+```
 
 ## Exercise 3 - Extract actions and owners
 
+```
 Create an action tracker from this meeting.
 
 Use the columns:
@@ -85,9 +90,11 @@ Use the columns:
 - Risk if not completed
 
 Return the result as a table.
+```
 
 ## Exercise 4 - Draft a stakeholder follow-up message
 
+```
 Draft a follow-up communication after the meeting.
 
 Audience: Project stakeholders.
@@ -100,9 +107,11 @@ Requirements:
 - Use professional business language
 
 Keep the message under 250 words.
+```
 
 ## Exercise 5 - Identify risks and escalation items
 
+```
 Review the meeting notes and identify items that should be escalated to leadership.
 
 For each item provide:
@@ -112,6 +121,7 @@ For each item provide:
 - Recommended escalation action
 
 Return the result as a table.
+```
 
 > **Note:** Additional prompt library: For more Teams and meeting prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for meeting preparation, recaps, action extraction, open questions, and stakeholder follow-up.
 
