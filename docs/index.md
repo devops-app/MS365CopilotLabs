@@ -24,19 +24,19 @@ Use this workbook during the instructor-led session to follow each lab, capture 
 
 | Lab | Title |
 |---|---|
-| 00 | [Set up your training files](labs/Lab00_Setup.md) |
-| 01 | [Explore Copilot Chat with work-grounded files](labs/Lab01_Copilot_Chat.md) |
-| 02 | [Draft, improve, and summarize a document with Copilot in Word](labs/Lab02_Word.md) |
-| 03 | [Build an executive presentation with Copilot in PowerPoint](labs/Lab03_PowerPoint.md) |
-| 04 | [Manage email and follow-up actions with Copilot in Outlook](labs/Lab04_Outlook.md) |
-| 05 | [Prepare, recap, and follow up from meetings with Copilot in Teams](labs/Lab05_Teams.md) |
-| 06 | [Analyze procurement spend with Copilot in Excel](labs/Lab06_Excel_Procurement.md) |
-| 07 | [Analyze HSSE performance with Copilot in Excel](labs/Lab07_Excel_HSSE.md) |
-| 08 | [Turn meeting notes into reusable knowledge with Copilot Pages and Notebook](labs/Lab08_Pages_Notebook.md) |
-| 09 | [Use built-in agents with Researcher and Analyst](labs/Lab09_Researcher_Analyst.md) |
-| 10 | [Create a knowledge agent with Agent Builder](labs/Lab10_Agent_Builder.md) |
-| 11 | [Design and test an agent with Copilot Studio](labs/Lab11_Copilot_Studio.md) |
-| — | [Optional Capstone: Create a complete leadership briefing pack](labs/Capstone.md) |
+| 00 | [Set up your training files](labs/Lab_00_Set_up_training_files.md) |
+| 01 | [Explore Copilot Chat with work-grounded files](labs/Lab_01_Copilot_Chat_work_grounded_files.md) |
+| 02 | [Draft, improve, and summarize a document with Copilot in Word](labs/Lab_02_Word_draft_improve_summarize.md) |
+| 03 | [Build an executive presentation with Copilot in PowerPoint](labs/Lab_03_PowerPoint_executive_presentation.md) |
+| 04 | [Manage email and follow-up actions with Copilot in Outlook](labs/Lab_04_Outlook_email_follow_up_actions.md) |
+| 05 | [Prepare, recap, and follow up from meetings with Copilot in Teams](labs/Lab_05_Teams_meeting_prep_recap_follow_up.md) |
+| 06 | [Analyze procurement spend with Copilot in Excel](labs/Lab_06_Excel_procurement_spend_analysis.md) |
+| 07 | [Analyze HSSE performance with Copilot in Excel](labs/Lab_07_Excel_HSSE_performance.md) |
+| 08 | [Turn meeting notes into reusable knowledge with Copilot Pages and Notebook](labs/Lab_08_Optional_Copilot_Pages_Notebook.md) |
+| 09 | [Use built-in agents with Researcher and Analyst](labs/Lab_09_Built_in_agents_Researcher_Analyst.md) |
+| 10 | [Create a knowledge agent with Agent Builder](labs/Lab_10_Agent_Builder_knowledge_agent.md) |
+| 11 | [Design and test an agent with Copilot Studio](labs/Lab_11_Optional_Copilot_Studio_agent.md) |
+| — | [Optional Capstone: Create a complete leadership briefing pack](labs/Optional_Capstone_Leadership_Briefing_Pack.md) |
 
 ## Reference
 
