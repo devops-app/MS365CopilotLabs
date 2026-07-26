@@ -13,6 +13,7 @@ Exercise 1 - Choose the right built-in agent
 ☐ Open the Agents area and locate Researcher and Analyst if they are available in your tenant.
 ☐ Discuss with your group which agent is best for research synthesis, spreadsheet analysis, and quick drafting.
 Exercise 2 - Use Researcher for a multi-source briefing
+```
 Use Researcher to prepare a leadership briefing on the mock Energy Data Platform initiative.
 
 Use these sources:
@@ -28,11 +29,13 @@ Create a structured briefing with:
 - Recommended next actions
 
 Clearly separate facts from assumptions and mention which source supports each major finding where possible.
+```
 Expected result
 A structured report that combines project, HSSE, and cost context.
 Clear distinction between evidence, assumptions, and recommendations.
 Decision points are written for a leadership audience rather than as raw notes.
 Exercise 3 - Use Analyst for spreadsheet insight
+```
 Use Analyst to examine /08_Mock_Procurement_Spend_Analysis.xlsx.
 
 Analyze:
@@ -43,4 +46,5 @@ Analyze:
 - Recommended management actions
 
 Return the answer as a table and include a short explanation of the analysis steps used.
+```
 Exercise 4 - Compare Researcher, Analyst, and Copilot Chat

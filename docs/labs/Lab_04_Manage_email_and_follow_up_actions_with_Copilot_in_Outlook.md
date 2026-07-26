@@ -12,6 +12,7 @@ Exercise 1 - Summarize an email thread
 ☐ Open Outlook in your browser or desktop app.
 ☐ Open or create a mock email thread using the sample files that discusses the Energy Data Platform project, procurement concerns, or meeting follow-up items.
 ☐ Use Copilot to summarize the thread.
+```
 Summarize this email thread for a project manager.
 
 Include:
@@ -21,7 +22,9 @@ Include:
 - Risks or blockers
 - Action items with owner and due date if available
 - Suggested next reply
+```
 Exercise 2 - Draft a stakeholder reply
+```
 Draft a concise reply to the thread.
 
 Tone: professional and action-oriented.
@@ -33,7 +36,9 @@ The reply should:
 - Ask for missing decisions or owners
 - Mention that the content is based on mock training data
 - Avoid adding unsupported facts
+```
 Exercise 3 - Create a follow-up action tracker
+```
 From this email thread, create an action tracker.
 
 Use these columns:
@@ -43,3 +48,4 @@ Use these columns:
 - Priority
 - Dependency
 - Recommended follow-up message
+```

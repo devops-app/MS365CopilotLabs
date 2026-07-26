@@ -4,6 +4,7 @@ Lab 11 - Optional: Design and test an agent with Copilot Studio
 Scenario
 You will design a Procurement Support Agent based on a mock use case specification. The goal is to practise agent scope, knowledge grounding, test cases, fallback behavior, and governance thinking.
 Exercise 1 - Review the use case
+```
 Summarize /07_Mock_Copilot_Studio_Use_Case_Spec.docx.
 
 Extract:
@@ -13,7 +14,9 @@ Extract:
 - Out-of-scope scenarios
 - Knowledge requirements
 - Governance requirements
+```
 Exercise 2 - Draft agent instructions
+```
 Create draft instructions for a Procurement Support Agent.
 
 The instructions must include:
@@ -22,6 +25,7 @@ The instructions must include:
 - How to handle unsupported requests
 - How to respond when source information is missing
 - When to recommend escalation
+```
 Exercise 3 - Configure the agent in Copilot Studio
 ☐ Open Copilot Studio.
 ☐ Create a new agent named Procurement Support Agent.
@@ -34,6 +38,7 @@ Exercise 4 - Run test cases
 ☐ Record whether each response passed or failed.
 ☐ Record the issue if a response fails.
 Exercise 5 - Improve the agent design
+```
 Based on the test results, recommend improvements to the Procurement Support Agent.
 
 Return a table with:
@@ -41,3 +46,4 @@ Return a table with:
 - Weakness found
 - Recommended change
 - Expected benefit
+```

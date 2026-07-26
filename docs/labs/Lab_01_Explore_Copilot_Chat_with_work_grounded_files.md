@@ -13,6 +13,7 @@ Exercise 1 - Summarize the project charter
 ☐ Use Work mode if available.
 ☐ Reference the project charter file from the sample data folder.
 ☐ Submit the following prompt.
+```
 Summarize /01_Mock_Project_Charter_Energy_Data_Platform.docx.
 
 Include:
@@ -24,17 +25,21 @@ Include:
 - Decisions required
 
 Use an executive briefing format.
+```
 Expected result
 A concise project summary.
 Risks and decisions are separated from general background.
 The response refers to the content of the project charter rather than inventing details.
 Exercise 2 - Improve the summary for leadership
+```
 Rewrite the summary for senior leadership.
 
 Keep it under 200 words.
 Use clear bullet points.
 Highlight only the decisions that require management action.
+```
 Exercise 3 - Create an action table
+```
 Create an action table from the project charter.
 
 Columns:
@@ -44,3 +49,4 @@ Columns:
 - Due date if available
 - Risk if delayed
 - Recommended next step
+```
