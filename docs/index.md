@@ -24,24 +24,28 @@ Use this workbook during the instructor-led session to follow each lab, capture 
 
 | Lab | Title |
 |---|---|
-| 00 | [Set up your training files](labs/Lab_00_Set_up_training_files.md) |
-| 01 | [Explore Copilot Chat with work-grounded files](labs/Lab_01_Copilot_Chat_work_grounded_files.md) |
-| 02 | [Draft, improve, and summarize a document with Copilot in Word](labs/Lab_02_Word_draft_improve_summarize.md) |
-| 03 | [Build an executive presentation with Copilot in PowerPoint](labs/Lab_03_PowerPoint_executive_presentation.md) |
-| 04 | [Manage email and follow-up actions with Copilot in Outlook](labs/Lab_04_Outlook_email_follow_up_actions.md) |
-| 05 | [Prepare, recap, and follow up from meetings with Copilot in Teams](labs/Lab_05_Teams_meeting_prep_recap_follow_up.md) |
-| 06 | [Analyze procurement spend with Copilot in Excel](labs/Lab_06_Excel_procurement_spend_analysis.md) |
-| 07 | [Analyze HSSE performance with Copilot in Excel](labs/Lab_07_Excel_HSSE_performance.md) |
-| 08 | [Turn meeting notes into reusable knowledge with Copilot Pages and Notebook](labs/Lab_08_Optional_Copilot_Pages_Notebook.md) |
-| 09 | [Use built-in agents with Researcher and Analyst](labs/Lab_09_Built_in_agents_Researcher_Analyst.md) |
-| 10 | [Create a knowledge agent with Agent Builder](labs/Lab_10_Agent_Builder_knowledge_agent.md) |
-| 11 | [Design and test an agent with Copilot Studio](labs/Lab_11_Optional_Copilot_Studio_agent.md) |
-| — | [Optional Capstone: Create a complete leadership briefing pack](labs/Optional_Capstone_Leadership_Briefing_Pack.md) |
+| — | [Overview](labs/00_Overview.md) |
+| 00 | [Set up your training files](labs/Lab_00_Set_up_your_training_files.md) |
+| 01 | [Explore Copilot Chat with work-grounded files](labs/Lab_01_Explore_Copilot_Chat_with_work_grounded_files.md) |
+| 02 | [Draft, improve, and summarize a document with Copilot in Word](labs/Lab_02_Draft_improve_and_summarize_a_document_with_Copilot_in_Word.md) |
+| 03 | [Build an executive presentation with Copilot in PowerPoint](labs/Lab_03_Build_an_executive_presentation_with_Copilot_in_PowerPoint.md) |
+| 04 | [Manage email and follow-up actions with Copilot in Outlook](labs/Lab_04_Manage_email_and_follow_up_actions_with_Copilot_in_Outlook.md) |
+| 05 | [Prepare, recap, and follow up from meetings with Copilot in Teams](labs/Lab_05_Prepare_recap_and_follow_up_from_meetings_with_Copilot_in_Teams.md) |
+| 06 | [Analyze procurement spend with Copilot in Excel](labs/Lab_06_Analyze_procurement_spend_with_Copilot_in_Excel.md) |
+| 07 | [Analyze HSSE performance with Copilot in Excel](labs/Lab_07_Analyze_HSSE_performance_with_Copilot_in_Excel.md) |
+| 08 | [Optional: Turn meeting notes into reusable knowledge with Copilot Pages and Notebook](labs/Lab_08_Optional_Turn_meeting_notes_into_reusable_knowledge_with_Copilot_Pages_an.md) |
+| 09 | [Use built-in agents with Researcher and Analyst](labs/Lab_09_Use_built_in_agents_with_Researcher_and_Analyst.md) |
+| 10 | [Create a knowledge agent with Agent Builder](labs/Lab_10_Create_a_knowledge_agent_with_Agent_Builder.md) |
+| 11 | [Optional: Design and test an agent with Copilot Studio](labs/Lab_11_Optional_Design_and_test_an_agent_with_Copilot_Studio.md) |
+| — | [Optional Capstone: Create a complete leadership briefing pack](labs/Optional_Capstone_Create_a_complete_leadership_briefing_pack.md) |
 
 ## Reference
 
 - [Copilot Training Lab Workbook](reference/Copilot_Training_Lab_Workbook.docx) — Full participant workbook (Word document).
 - [Microsoft 365 Copilot Prompt Library](reference/microsoft-365-copilot-prompt-library.md) — Copy-ready prompts for Word, Excel, PowerPoint, Outlook, and Teams.
+- [Appendix A: Prompting Pattern Reference](labs/Appendix_A_Prompting_Pattern_Reference.md) — Quick reference for effective Copilot prompting patterns.
+- [Appendix B: Instructor Debrief Questions](labs/Appendix_B_Instructor_Debrief_Questions.md) — Debrief questions for instructors.
+- [Appendix C: Safety and Data Handling Reminders](labs/Appendix_C_Safety_and_Data_Handling_Reminders.md) — Safety reminders for training environments.
 
 ## Sample Data Assets
 
