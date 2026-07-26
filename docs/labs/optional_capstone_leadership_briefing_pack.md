@@ -1,7 +1,7 @@
 # Optional Capstone - Create a complete leadership briefing pack
 
-| Item | Detail |
-| --- | --- |
+| **Item** | **Detail** |
+|----|----|
 | Level | 100 to 200 |
 | Suggested duration | 45 minutes |
 | Apps | Copilot Chat, Word, Excel, PowerPoint, Agent Builder, Copilot Studio |
@@ -13,8 +13,8 @@ Your team must prepare a leadership-ready briefing pack for the mock Energy Data
 
 ## Deliverables
 
-| Deliverable | Tool | Minimum requirement |
-| --- | --- | --- |
+| **Deliverable** | **Tool** | **Minimum requirement** |
+|----|----|----|
 | Executive report | Word | A 2 to 3 page report with summary, risks, decisions, and actions. |
 | Procurement insight dashboard | Excel | At least two charts and one summary table. |
 | HSSE briefing summary | Excel or Word | A concise leadership update based on HSSE KPI data. |
@@ -24,32 +24,31 @@ Your team must prepare a leadership-ready briefing pack for the mock Energy Data
 
 ## Suggested capstone prompt sequence
 
-```
-Step 1: Summarize the project, procurement workbook, HSSE workbook, and cost workbook into a single leadership briefing outline.
-
-Step 2: Create the executive report in Word using the outline.
-
-Step 3: Analyze the Excel workbooks and identify the top project, procurement, and HSSE risks.
-
-Step 4: Create a PowerPoint presentation for leadership review.
-
-Step 5: Build or design an agent that answers questions from the approved knowledge documents.
-
+Step 1: Summarize the project, procurement workbook, HSSE workbook, and cost workbook into a single leadership briefing outline.  
+  
+Step 2: Create the executive report in Word using the outline.  
+  
+Step 3: Analyze the Excel workbooks and identify the top project, procurement, and HSSE risks.  
+  
+Step 4: Create a PowerPoint presentation for leadership review.  
+  
+Step 5: Build or design an agent that answers questions from the approved knowledge documents.  
+  
 Step 6: Test the agent and document improvements.
-```
 
-> **Note:** Additional prompt library: For more capstone prompt ideas, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts across Word, Excel, PowerPoint, meetings, research, agents, validation, and executive communication.
+| **Additional prompt library:** For more capstone prompt ideas, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts across Word, Excel, PowerPoint, meetings, research, agents, validation, and executive communication. |
+|----|
 
 ## Assessment checklist
 
-- [ ] The participant used at least three source files from Contoso Energy copilot / sample data.
+**☐** The participant used at least three source files from Contoso Energy copilot / sample data.
 
-- [ ] The Word output includes executive summary, risks, decisions, and next actions.
+**☐** The Word output includes executive summary, risks, decisions, and next actions.
 
-- [ ] The Excel output includes analysis rather than only raw data.
+**☐** The Excel output includes analysis rather than only raw data.
 
-- [ ] The PowerPoint output is concise and suitable for leadership.
+**☐** The PowerPoint output is concise and suitable for leadership.
 
-- [ ] The agent instructions include out-of-scope handling and no-fabrication guidance.
+**☐** The agent instructions include out-of-scope handling and no-fabrication guidance.
 
-- [ ] The participant can explain how they validated Copilot output before sharing.
+**☐** The participant can explain how they validated Copilot output before sharing.

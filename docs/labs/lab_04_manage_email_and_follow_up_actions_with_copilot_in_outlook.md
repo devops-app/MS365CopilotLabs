@@ -1,7 +1,7 @@
 # Lab 04 - Manage email and follow-up actions with Copilot in Outlook
 
-| Item | Detail |
-| --- | --- |
+| **Item** | **Detail** |
+|----|----|
 | Level | 100 |
 | Duration | 10 minutes |
 | Apps | Microsoft Outlook, Microsoft 365 Copilot |
@@ -13,21 +13,21 @@ You need to manage a busy project inbox after a leadership review. You will use 
 
 ## Learning objectives
 
-Summarize long email threads into decisions, risks, and actions.
+- Summarize long email threads into decisions, risks, and actions.
 
-Draft professional replies using clear audience, tone, and action expectations.
+- Draft professional replies using clear audience, tone, and action expectations.
 
-Convert email context into a follow-up action tracker.
+- Convert email context into a follow-up action tracker.
 
-Validate generated replies before sending.
+- Validate generated replies before sending.
 
 ## Exercise 1 - Summarize an email thread
 
-- [ ] Open Outlook in your browser or desktop app.
+**☐** Open Outlook in your browser or desktop app.
 
-- [ ] Open or create a mock email thread using the sample files that discusses the Energy Data Platform project, procurement concerns, or meeting follow-up items.
+**☐** Open or create a mock email thread using the sample files that discusses the Energy Data Platform project, procurement concerns, or meeting follow-up items.
 
-- [ ] Use Copilot to summarize the thread.
+**☐** Use Copilot to summarize the thread.
 
 ```
 Summarize this email thread for a project manager.
@@ -71,6 +71,8 @@ Use these columns:
 - Recommended follow-up message
 ```
 
-> **Note:** Additional prompt library: For more Outlook prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for email summaries, stakeholder replies, follow-up messages, inbox prioritization, and action tracking.
+| **Additional prompt library:** For more Outlook prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for email summaries, stakeholder replies, follow-up messages, inbox prioritization, and action tracking. |
+|----|
 
-> **Note:** Quality check: Before sending any reply, verify recipients, facts, commitments, dates, and sensitivity level. Do not send mock training content to real business stakeholders.
+| **Quality check:** Before sending any reply, verify recipients, facts, commitments, dates, and sensitivity level. Do not send mock training content to real business stakeholders. |
+|----|

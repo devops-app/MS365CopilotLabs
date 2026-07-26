@@ -1,10 +1,10 @@
 # Lab 02 - Draft, improve, and summarize a document with Copilot in Word
 
-| Item | Detail |
-| --- | --- |
-| Level | 100 |
-| Duration | 15 minutes |
-| Apps | Microsoft Word, Microsoft 365 Copilot |
+| **Item**    | **Detail**                                        |
+|-------------|---------------------------------------------------|
+| Level       | 100                                               |
+| Duration    | 15 minutes                                        |
+| Apps        | Microsoft Word, Microsoft 365 Copilot             |
 | Sample file | 01_Mock_Project_Charter_Energy_Data_Platform.docx |
 
 ## Scenario
@@ -13,13 +13,13 @@ You are preparing an executive project report for the Energy Data Platform initi
 
 ## Exercise 1 - Create a new report from a source document
 
-- [ ] Open a new Word document from your browser.
+**☐** Open a new Word document from your browser.
 
-- [ ] Select the on-canvas Copilot drafting experience at the top of the blank document.
+**☐** Select the on-canvas Copilot drafting experience at the top of the blank document.
 
-- [ ] Add the project charter file from Contoso Energy copilot / sample data as source content.
+**☐** Add the project charter file from Contoso Energy copilot / sample data as source content.
 
-- [ ] Submit the following prompt.
+**☐** Submit the following prompt.
 
 ```
 Create an executive project report using the linked project charter as the source.
@@ -37,19 +37,19 @@ Include these sections:
 Use professional language suitable for Contoso Energy leadership training.
 ```
 
-- [ ] Review the generated draft.
+**☐** Review the generated draft.
 
-- [ ] Select Keep it if the content is suitable.
+**☐** Select Keep it if the content is suitable.
 
-- [ ] Save the file as Lab02_Energy_Data_Platform_Report.docx.
+**☐** Save the file as Lab02_Energy_Data_Platform_Report.docx.
 
 ## Exercise 2 - Rewrite the risks section
 
-- [ ] Highlight the Risks and Issues section.
+**☐** Highlight the Risks and Issues section.
 
-- [ ] Select Edit with Copilot from the floating toolbar.
+**☐** Select Edit with Copilot from the floating toolbar.
 
-- [ ] Use the following prompt to improve the text.
+**☐** Use the following prompt to improve the text.
 
 ```
 Rewrite this section for a senior management audience.
@@ -62,11 +62,11 @@ Keep the tone clear, professional, and concise.
 
 ## Exercise 3 - Convert recommendations into a table
 
-- [ ] Place your cursor below the Recommendations section.
+**☐** Place your cursor below the Recommendations section.
 
-- [ ] Open Copilot in Word.
+**☐** Open Copilot in Word.
 
-- [ ] Submit the following prompt.
+**☐** Submit the following prompt.
 
 ```
 Convert the recommendations into a table.
@@ -81,11 +81,11 @@ Use these columns:
 
 ## Exercise 4 - Summarize the final document
 
-- [ ] Open Copilot in Word. In newer versions, select the Copilot icon in the lower-right corner of the document; in older versions, open Copilot from the Home tab.
+**☐** Open Copilot in Word. In newer versions, select the Copilot icon in the lower-right corner of the document; in older versions, open Copilot from the Home tab.
 
-- [ ] Submit the following prompt.
+**☐** Submit the following prompt.
 
-- [ ] Add the summary to the end of the document if the output is useful.
+**☐** Add the summary to the end of the document if the output is useful.
 
 ```
 Summarize this report for a leader who has only two minutes to read it.
@@ -97,6 +97,8 @@ Highlight:
 - Immediate next actions
 ```
 
-> **Note:** Additional prompt library: For more Word prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for drafting, rewriting, summarizing, improving tone, and converting content into tables.
+| **Additional prompt library:** For more Word prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for drafting, rewriting, summarizing, improving tone, and converting content into tables. |
+|----|
 
-> **Note:** Quality check: Before completing the lab, manually verify that the generated summary aligns with the report and does not introduce facts that are not in the source document.
+| **Quality check:** Before completing the lab, manually verify that the generated summary aligns with the report and does not introduce facts that are not in the source document. |
+|----|

@@ -1,21 +1,21 @@
 # Lab 06 - Analyze procurement spend with Copilot in Excel
 
-| Item | Detail |
-| --- | --- |
-| Level | 100 |
-| Duration | 15 minutes |
-| Apps | Microsoft Excel, Microsoft 365 Copilot |
+| **Item**    | **Detail**                              |
+|-------------|-----------------------------------------|
+| Level       | 100                                     |
+| Duration    | 15 minutes                              |
+| Apps        | Microsoft Excel, Microsoft 365 Copilot  |
 | Sample file | 08_Mock_Procurement_Spend_Analysis.xlsx |
 
 ## Learning objectives
 
-Use Copilot in Excel to summarize procurement data.
+- Use Copilot in Excel to summarize procurement data.
 
-Identify supplier concentration and spend anomalies.
+- Identify supplier concentration and spend anomalies.
 
-Create dashboard visuals that support procurement review.
+- Create dashboard visuals that support procurement review.
 
-Convert findings into an executive-ready insight summary.
+- Convert findings into an executive-ready insight summary.
 
 ## Scenario
 
@@ -23,13 +23,13 @@ You are reviewing mock procurement spend data. You need to identify major spend 
 
 ## Exercise 1 - Explore the dataset
 
-- [ ] Open 08_Mock_Procurement_Spend_Analysis.xlsx from OneDrive.
+**☐** Open 08_Mock_Procurement_Spend_Analysis.xlsx from OneDrive.
 
-- [ ] Confirm the data is formatted as a table.
+**☐** Confirm the data is formatted as a table.
 
-- [ ] Open Copilot in Excel. In newer versions, select the Copilot icon in the lower-right corner of the workbook; in older versions, open Copilot from the Home tab.
+**☐** Open Copilot in Excel. In newer versions, select the Copilot icon in the lower-right corner of the workbook; in older versions, open Copilot from the Home tab.
 
-- [ ] Submit the following prompt.
+**☐** Submit the following prompt.
 
 ```
 Summarize this procurement dataset.
@@ -90,6 +90,8 @@ Use this structure:
 - Recommended next steps
 ```
 
-> **Note:** Additional prompt library: For more Excel prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for data summaries, anomaly detection, dashboard ideas, risk analysis, and executive insight summaries.
+| **Additional prompt library:** For more Excel prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for data summaries, anomaly detection, dashboard ideas, risk analysis, and executive insight summaries. |
+|----|
 
-> **Note:** Validation: Confirm that totals, supplier rankings, and category trends are based on the workbook data. Do not present recommendations unless the underlying values and filters have been checked manually.
+| **Validation:** Confirm that totals, supplier rankings, and category trends are based on the workbook data. Do not present recommendations unless the underlying values and filters have been checked manually. |
+|----|

@@ -1,11 +1,11 @@
 # Lab 07 - Analyze HSSE performance with Copilot in Excel
 
-| Item | Detail |
-| --- | --- |
-| Level | 100 |
-| Duration | 15 minutes |
-| Apps | Microsoft Excel, Microsoft 365 Copilot |
-| Sample file | 09_Mock_HSSE_KPI_Dashboard.xlsx |
+| **Item**    | **Detail**                             |
+|-------------|----------------------------------------|
+| Level       | 100                                    |
+| Duration    | 15 minutes                             |
+| Apps        | Microsoft Excel, Microsoft 365 Copilot |
+| Sample file | 09_Mock_HSSE_KPI_Dashboard.xlsx        |
 
 ## Scenario
 
@@ -49,6 +49,8 @@ Include:
 - Questions for leadership
 ```
 
-> **Note:** Additional prompt library: For more Excel prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for KPI analysis, trend charts, leadership briefings, risk summaries, and validation checks.
+| **Additional prompt library:** For more Excel prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for KPI analysis, trend charts, leadership briefings, risk summaries, and validation checks. |
+|----|
 
-> **Note:** Validation: Check that incident, near-miss, and action counts are not mixed together. These are different indicators and should not be combined without explanation.
+| **Validation:** Check that incident, near-miss, and action counts are not mixed together. These are different indicators and should not be combined without explanation. |
+|----|

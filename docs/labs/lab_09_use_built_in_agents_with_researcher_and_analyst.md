@@ -1,7 +1,7 @@
 # Lab 09 - Use built-in agents with Researcher and Analyst
 
-| Item | Detail |
-| --- | --- |
+| **Item** | **Detail** |
+|----|----|
 | Level | 100 to 200 |
 | Duration | 15 minutes |
 | Apps | Microsoft 365 Copilot, Researcher agent, Analyst agent |
@@ -13,21 +13,21 @@ You need to prepare a leadership-ready research and analysis pack for the mock E
 
 ## Learning objectives
 
-Explain when to use Researcher, Analyst, and standard Copilot Chat.
+- Explain when to use Researcher, Analyst, and standard Copilot Chat.
 
-Use Researcher to produce a structured, source-aware briefing from multiple work files.
+- Use Researcher to produce a structured, source-aware briefing from multiple work files.
 
-Use Analyst to inspect spreadsheet data, identify patterns, and create data-driven recommendations.
+- Use Analyst to inspect spreadsheet data, identify patterns, and create data-driven recommendations.
 
-Validate outputs by checking source coverage, assumptions, and unsupported claims.
+- Validate outputs by checking source coverage, assumptions, and unsupported claims.
 
 ## Exercise 1 - Choose the right built-in agent
 
-- [ ] Open Microsoft 365 Copilot.
+**☐** Open Microsoft 365 Copilot.
 
-- [ ] Open the Agents area and locate Researcher and Analyst if they are available in your tenant.
+**☐** Open the Agents area and locate Researcher and Analyst if they are available in your tenant.
 
-- [ ] Discuss with your group which agent is best for research synthesis, spreadsheet analysis, and quick drafting.
+**☐** Discuss with your group which agent is best for research synthesis, spreadsheet analysis, and quick drafting.
 
 ## Exercise 2 - Use Researcher for a multi-source briefing
 
@@ -51,11 +51,11 @@ Clearly separate facts from assumptions and mention which source supports each m
 
 ### Expected result
 
-A structured report that combines project, HSSE, and cost context.
+- A structured report that combines project, HSSE, and cost context.
 
-Clear distinction between evidence, assumptions, and recommendations.
+- Clear distinction between evidence, assumptions, and recommendations.
 
-Decision points are written for a leadership audience rather than as raw notes.
+- Decision points are written for a leadership audience rather than as raw notes.
 
 ## Exercise 3 - Use Analyst for spreadsheet insight
 
@@ -74,12 +74,14 @@ Return the answer as a table and include a short explanation of the analysis ste
 
 ## Exercise 4 - Compare Researcher, Analyst, and Copilot Chat
 
-| Tool | Best use | Validation focus |
-| --- | --- | --- |
+| **Tool** | **Best use** | **Validation focus** |
+|----|----|----|
 | Researcher | Multi-step research across files and broader context. | Check sources, assumptions, and completeness. |
 | Analyst | Advanced analysis of tables, spreadsheets, and numerical patterns. | Check calculations, filters, chart logic, and assumptions. |
 | Copilot Chat | Quick summaries, drafting, brainstorming, and follow-up questions. | Check whether the answer is sufficient for the task or needs deeper research. |
 
-> **Note:** Additional prompt library: For more Researcher, Analyst, and advanced Copilot prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for multi-source research, spreadsheet analysis, assumptions, evidence checks, and management recommendations.
+| **Additional prompt library:** For more Researcher, Analyst, and advanced Copilot prompt examples to try after this lab, open https://copilotlabs.dsigncodehub.com/reference/microsoft-365-copilot-prompt-library.html and explore prompts for multi-source research, spreadsheet analysis, assumptions, evidence checks, and management recommendations. |
+|----|
 
-> **Note:** Instructor guidance: If Researcher or Analyst is not available, complete the lab as a prompt-design and output-review exercise using standard Copilot Chat. Emphasize source selection, validation, and deciding when deeper reasoning is required.
+| **Instructor guidance:** If Researcher or Analyst is not available, complete the lab as a prompt-design and output-review exercise using standard Copilot Chat. Emphasize source selection, validation, and deciding when deeper reasoning is required. |
+|----|
