@@ -26,7 +26,7 @@ Use this workbook during the instructor-led session to follow each lab, capture 
 
 | Lab | Title |
 |---|---|
-| — | [Overview](labs/00_overview_course_lab_overview_and_sample_data_inventory.md) |
+| — | [Overview](labs/03_course_lab_overview.md) |
 | 00 | [Set up your training files](labs/lab_00_set_up_your_training_files.md) |
 | 01 | [Explore Copilot Chat with work-grounded files](labs/lab_01_explore_copilot_chat_with_work_grounded_files.md) |
 | 02 | [Draft, improve, and summarize a document with Copilot in Word](labs/lab_02_draft_improve_and_summarize_a_document_with_copilot_in_word.md) |
@@ -53,7 +53,7 @@ Use this workbook during the instructor-led session to follow each lab, capture 
 | 10B | [Optional: Create your own business agent](labs/lab_10b_optional_create_your_own_business_agent.md) |
 | 11 | [Optional: Design and test an agent with Copilot Studio](labs/lab_11_optional_design_and_test_an_agent_with_copilot_studio.md) |
 | 12 | [Optional: Prompt optimization workshop](labs/lab_12_optional_prompt_optimization_workshop.md) |
-| — | [Optional Capstone: Create a complete leadership briefing pack](labs/optional_capstone_create_a_complete_leadership_briefing_pack.md) |
+| — | [Optional Capstone: Create a complete leadership briefing pack](labs/optional_capstone_leadership_briefing_pack.md) |
 
 ## Reference
 
@@ -99,4 +99,4 @@ Download the workbook and all sample data files below.
 
 The optional capstone exercise combines skills from Word, Excel, PowerPoint, and agent tools into a complete leadership-ready briefing pack.
 
-- See [Optional Capstone: Create a complete leadership briefing pack](labs/optional_capstone_create_a_complete_leadership_briefing_pack.md)
+- See [Optional Capstone: Create a complete leadership briefing pack](labs/optional_capstone_leadership_briefing_pack.md)
