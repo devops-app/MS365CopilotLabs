@@ -33,8 +33,7 @@ to raise, questions I should ask, and decisions likely required. Return as
 a meeting preparation briefing.
 ```
 
-| **Live meeting path:** Optionally schedule a short Teams meeting, enable transcription or Copilot meeting features per tenant config, and have one facilitator speak for at least 5 minutes using the sample speech. Works best with a single speaker in a quiet room. |
-|----|
+> **Live meeting path:** Optionally schedule a short Teams meeting, enable transcription or Copilot meeting features per tenant config, and have one facilitator speak for at least 5 minutes using the sample speech. Works best with a single speaker in a quiet room.
 
 *Facilitator sample speech: Welcome to the cross-functional steering meeting for the Unified Customer View programme. We will confirm objectives, review risks and open decisions, and cover operations performance. The programme aims to give every business unit a consented, shared view of the customer, but privacy rules differ between HealthCare, Financial, and the other units, so we need to confirm the data owner and approve the consent framework before integration work starts. On operations, Penang OEE dipped after a line jam and Detroit defect rate is above threshold, so we need a quality recovery decision. Please capture all decisions with an owner and a target date, and record anything that needs escalation. Remember this is mock training data only.*
 
@@ -54,5 +53,4 @@ deferred/blocked) | Owner | Conditions | Target date. Keep it grounded in
 the sources.
 ```
 
-| **Validation:** Before sharing any recap, register, or tracker, confirm that decisions, owners, and conditions accurately reflect the discussion. A participant must review Copilot output before distribution. |
-|----|
+> **Validation:** Before sharing any recap, register, or tracker, confirm that decisions, owners, and conditions accurately reflect the discussion. A participant must review Copilot output before distribution.

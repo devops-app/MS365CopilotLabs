@@ -27,5 +27,4 @@ Choosing the right Copilot surface is a core skill. For each question, decide wh
 | Researcher | Multi-step synthesis across files and broader context. | Source coverage, evidence vs assumption, completeness. |
 | Analyst | Calculations, trends, correlations, code-backed data work. | Columns, filters, joins, sample size, correlation vs causation. |
 
-| **Debrief question:** For question 5, when would you run Analyst first to produce evidence, then hand it to Researcher to synthesize? Discuss chaining agents. |
-|----|
+> **Debrief question:** For question 5, when would you run Analyst first to produce evidence, then hand it to Researcher to synthesize? Discuss chaining agents.

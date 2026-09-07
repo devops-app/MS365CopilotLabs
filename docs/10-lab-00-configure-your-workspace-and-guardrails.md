@@ -18,8 +18,7 @@ You are launching a Copilot enablement session that will be attended by people f
 
 ☐ Do not move, rename, or edit the source files during the labs.
 
-| **Validation:** If files do not appear in Copilot file search, refresh the browser, confirm OneDrive sync, and use the file picker instead of typing the full name. |
-|----|
+> **Validation:** If files do not appear in Copilot file search, refresh the browser, confirm OneDrive sync, and use the file picker instead of typing the full name.
 
 ### Exercise 2 - Set the guardrails
 
@@ -29,5 +28,4 @@ You are launching a Copilot enablement session that will be attended by people f
 
 ☐ Agree three team rules: no real or regulated data in prompts, always verify outputs, and label generated content at the source classification.
 
-| **Instructor guidance:** If a feature is unavailable in the tenant, keep the scenario and run the exercise as a prompt-design discussion. The learning goal is how to structure work, source context, and validation - not the specific button. |
-|----|
+> **Instructor guidance:** If a feature is unavailable in the tenant, keep the scenario and run the exercise as a prompt-design discussion. The learning goal is how to structure work, source context, and validation - not the specific button.

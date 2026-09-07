@@ -64,5 +64,4 @@ quality issues, sample-size limits, or filter choices could change the
 conclusion? Return a short 'analysis risk register'.
 ```
 
-| **Validation focus:** Check the columns and filters the agent used, whether unmatched records were disclosed, and whether it separated correlation from causation. Re-run one metric manually. |
-|----|
+> **Validation focus:** Check the columns and filters the agent used, whether unmatched records were disclosed, and whether it separated correlation from causation. Re-run one metric manually.

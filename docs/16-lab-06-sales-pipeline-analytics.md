@@ -8,8 +8,7 @@
 
 Sales managing a technology (CloudWorks / SaaS) pipeline across industries and regions. Level 300 Excel work.
 
-| **Timing note:** Labs 05 and 06 are both Level 300 Excel challenges. In a time-boxed class, complete one as the required activity and keep the other for self-paced practice. |
-|----|
+> **Timing note:** Labs 05 and 06 are both Level 300 Excel challenges. In a time-boxed class, complete one as the required activity and keep the other for self-paced practice.
 
 ## Scenario
 
@@ -61,5 +60,4 @@ strongest and weakest segments, at-risk deals, and 3 recommended actions
 with owners. Separate confirmed figures from interpretation.
 ```
 
-| **Validation:** Confirm weighted value uses probability correctly and that closed-lost is excluded from open pipeline. Correlation between owner and win rate is a hypothesis, not proof. |
-|----|
+> **Validation:** Confirm weighted value uses probability correctly and that closed-lost is excluded from open pipeline. Correlation between owner and win rate is a hypothesis, not proof.

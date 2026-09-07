@@ -22,8 +22,7 @@ You must present the Retail loyalty campaign and its results outlook to the lead
 
 - Generate speaker notes that anticipate tough questions.
 
-| **PowerPoint app guidance:** Use the PowerPoint desktop app for the full template experience. Select a suitable template before creating or refining the deck. |
-|----|
+> **PowerPoint app guidance:** Use the PowerPoint desktop app for the full template experience. Select a suitable template before creating or refining the deck.
 
 ### Exercise 1 - Create the deck
 
@@ -59,5 +58,4 @@ Create speaker notes for each slide. For each: key message, one supporting
 detail, one likely challenge from leadership, and a concise response.
 ```
 
-| **Optional extension:** Open 14_Mock_Quarterly_Business_Review_Deck.pptx and ask Copilot to critique and improve the existing QBR deck instead of generating a new one. |
-|----|
+> **Optional extension:** Open 14_Mock_Quarterly_Business_Review_Deck.pptx and ask Copilot to critique and improve the existing QBR deck instead of generating a new one.

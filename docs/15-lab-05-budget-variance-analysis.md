@@ -65,5 +65,4 @@ cost control / reallocation / approval) | Estimated impact | Effort (S/M/L)
 Do not present a number unless it is visible in the data.
 ```
 
-| **Validation:** Re-check totals, the overall variance %, and any single figure against the workbook. Confirm filters are not hiding rows. Do not present a recommendation unless its evidence is visible. |
-|----|
+> **Validation:** Re-check totals, the overall variance %, and any single figure against the workbook. Confirm filters are not hiding rows. Do not present a recommendation unless its evidence is visible.

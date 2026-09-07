@@ -18,8 +18,7 @@
 | Training data condition | Synthetic mock content only. Not real Contoso Group policy, financial, customer, patient, employee, or production data |
 | Recommended delivery | Instructor-led workshop with hands-on labs; departments can run their own track |
 
-| **Important:** This workbook is designed for classroom training. Participants must verify every Copilot output, inspect sources and calculations, and never place real confidential, regulated, personal, or production data into prompts. |
-|----|
+> **Important:** This workbook is designed for classroom training. Participants must verify every Copilot output, inspect sources and calculations, and never place real confidential, regulated, personal, or production data into prompts.
 
 # Table of Contents
 
@@ -105,8 +104,7 @@ All sample files should be available in the OneDrive folder below. Reference fil
 | 13_Mock_Agent_Test_Questions.csv | All | Test questions for Agent Builder and Copilot Studio validation and red-teaming. |
 | 14_Mock_Quarterly_Business_Review_Deck.pptx | Cross-function | Source deck for PowerPoint improvement and speaker-note exercises. |
 
-| **Note:** All data is synthetic. No real Contoso Group patient, customer, employee, financial, or supplier information is included. Treat every value as illustrative and validate before use. |
-|----|
+> **Note:** All data is synthetic. No real Contoso Group patient, customer, employee, financial, or supplier information is included. Treat every value as illustrative and validate before use.
 
 # Lab 00 - Configure your workspace and guardrails
 
@@ -128,8 +126,7 @@ You are launching a Copilot enablement session that will be attended by people f
 
 ☐ Do not move, rename, or edit the source files during the labs.
 
-| **Validation:** If files do not appear in Copilot file search, refresh the browser, confirm OneDrive sync, and use the file picker instead of typing the full name. |
-|----|
+> **Validation:** If files do not appear in Copilot file search, refresh the browser, confirm OneDrive sync, and use the file picker instead of typing the full name.
 
 ### Exercise 2 - Set the guardrails
 
@@ -139,8 +136,7 @@ You are launching a Copilot enablement session that will be attended by people f
 
 ☐ Agree three team rules: no real or regulated data in prompts, always verify outputs, and label generated content at the source classification.
 
-| **Instructor guidance:** If a feature is unavailable in the tenant, keep the scenario and run the exercise as a prompt-design discussion. The learning goal is how to structure work, source context, and validation - not the specific button. |
-|----|
+> **Instructor guidance:** If a feature is unavailable in the tenant, keep the scenario and run the exercise as a prompt-design discussion. The learning goal is how to structure work, source context, and validation - not the specific button.
 
 # Lab 01 - Multi-file reasoning and prompt engineering
 
@@ -214,8 +210,7 @@ Then, in plain text, list any action you were asked to invent but refused,
 and explain why.
 ```
 
-| **Debrief question:** Which single change to your prompt (role, source scoping, output contract, or the 'Not stated' rule) improved accuracy the most, and why? |
-|----|
+> **Debrief question:** Which single change to your prompt (role, source scoping, output contract, or the 'Not stated' rule) improved accuracy the most, and why?
 
 # Lab 02 - Contract review summary and dual-audience rewrite
 
@@ -279,8 +274,7 @@ Recommended position | Owner | Decision required.
 If a field is not in the source, write 'Not stated'.
 ```
 
-| **Quality check:** Manually confirm every clause position in the summary matches the review notes and that neither audience version introduces a term the source did not state. |
-|----|
+> **Quality check:** Manually confirm every clause position in the summary matches the review notes and that neither audience version introduces a term the source did not state.
 
 # Lab 03 - Quarterly business review briefing
 
@@ -306,8 +300,7 @@ You must present the Retail loyalty campaign and its results outlook to the lead
 
 - Generate speaker notes that anticipate tough questions.
 
-| **PowerPoint app guidance:** Use the PowerPoint desktop app for the full template experience. Select a suitable template before creating or refining the deck. |
-|----|
+> **PowerPoint app guidance:** Use the PowerPoint desktop app for the full template experience. Select a suitable template before creating or refining the deck.
 
 ### Exercise 1 - Create the deck
 
@@ -343,8 +336,7 @@ Create speaker notes for each slide. For each: key message, one supporting
 detail, one likely challenge from leadership, and a concise response.
 ```
 
-| **Optional extension:** Open 14_Mock_Quarterly_Business_Review_Deck.pptx and ask Copilot to critique and improve the existing QBR deck instead of generating a new one. |
-|----|
+> **Optional extension:** Open 14_Mock_Quarterly_Business_Review_Deck.pptx and ask Copilot to critique and improve the existing QBR deck instead of generating a new one.
 
 # Lab 04 - Customer escalation communications
 
@@ -400,8 +392,7 @@ From this thread, create an action tracker table: Action | Owner or role |
 Due date if stated | Priority | Dependency | Recommended follow-up message.
 ```
 
-| **Quality check:** Before sending, verify recipients, facts, dates, and commitments. Never send mock content to real customers, and never include customer PII or payment detail in an email. |
-|----|
+> **Quality check:** Before sending, verify recipients, facts, dates, and commitments. Never send mock content to real customers, and never include customer PII or payment detail in an email.
 
 # Lab 05 - Budget variance analysis
 
@@ -470,8 +461,7 @@ cost control / reallocation / approval) | Estimated impact | Effort (S/M/L)
 Do not present a number unless it is visible in the data.
 ```
 
-| **Validation:** Re-check totals, the overall variance %, and any single figure against the workbook. Confirm filters are not hiding rows. Do not present a recommendation unless its evidence is visible. |
-|----|
+> **Validation:** Re-check totals, the overall variance %, and any single figure against the workbook. Confirm filters are not hiding rows. Do not present a recommendation unless its evidence is visible.
 
 # Lab 06 - Sales pipeline analytics
 
@@ -483,8 +473,7 @@ Do not present a number unless it is visible in the data.
 
 Sales managing a technology (CloudWorks / SaaS) pipeline across industries and regions. Level 300 Excel work.
 
-| **Timing note:** Labs 05 and 06 are both Level 300 Excel challenges. In a time-boxed class, complete one as the required activity and keep the other for self-paced practice. |
-|----|
+> **Timing note:** Labs 05 and 06 are both Level 300 Excel challenges. In a time-boxed class, complete one as the required activity and keep the other for self-paced practice.
 
 ## Scenario
 
@@ -536,8 +525,7 @@ strongest and weakest segments, at-risk deals, and 3 recommended actions
 with owners. Separate confirmed figures from interpretation.
 ```
 
-| **Validation:** Confirm weighted value uses probability correctly and that closed-lost is excluded from open pipeline. Correlation between owner and win rate is a hypothesis, not proof. |
-|----|
+> **Validation:** Confirm weighted value uses probability correctly and that closed-lost is excluded from open pipeline. Correlation between owner and win rate is a hypothesis, not proof.
 
 # Lab 07 - Cross-functional project meeting
 
@@ -574,8 +562,7 @@ to raise, questions I should ask, and decisions likely required. Return as
 a meeting preparation briefing.
 ```
 
-| **Live meeting path:** Optionally schedule a short Teams meeting, enable transcription or Copilot meeting features per tenant config, and have one facilitator speak for at least 5 minutes using the sample speech. Works best with a single speaker in a quiet room. |
-|----|
+> **Live meeting path:** Optionally schedule a short Teams meeting, enable transcription or Copilot meeting features per tenant config, and have one facilitator speak for at least 5 minutes using the sample speech. Works best with a single speaker in a quiet room.
 
 *Facilitator sample speech: Welcome to the cross-functional steering meeting for the Unified Customer View programme. We will confirm objectives, review risks and open decisions, and cover operations performance. The programme aims to give every business unit a consented, shared view of the customer, but privacy rules differ between HealthCare, Financial, and the other units, so we need to confirm the data owner and approve the consent framework before integration work starts. On operations, Penang OEE dipped after a line jam and Detroit defect rate is above threshold, so we need a quality recovery decision. Please capture all decisions with an owner and a target date, and record anything that needs escalation. Remember this is mock training data only.*
 
@@ -595,8 +582,7 @@ deferred/blocked) | Owner | Conditions | Target date. Keep it grounded in
 the sources.
 ```
 
-| **Validation:** Before sharing any recap, register, or tracker, confirm that decisions, owners, and conditions accurately reflect the discussion. A participant must review Copilot output before distribution. |
-|----|
+> **Validation:** Before sharing any recap, register, or tracker, confirm that decisions, owners, and conditions accurately reflect the discussion. A participant must review Copilot output before distribution.
 
 # Lab 08 - Deep data analysis with the Analyst agent
 
@@ -664,8 +650,7 @@ quality issues, sample-size limits, or filter choices could change the
 conclusion? Return a short 'analysis risk register'.
 ```
 
-| **Validation focus:** Check the columns and filters the agent used, whether unmatched records were disclosed, and whether it separated correlation from causation. Re-run one metric manually. |
-|----|
+> **Validation focus:** Check the columns and filters the agent used, whether unmatched records were disclosed, and whether it separated correlation from causation. Re-run one metric manually.
 
 # Lab 09 - Multi-source business investigation
 
@@ -733,8 +718,7 @@ did you barely use, and what additional evidence would materially change the
 conclusions? List what a reviewer should verify first.
 ```
 
-| **Validation focus:** Confirm every major finding is tied to a named source, unknowns are labelled, and the agent did not substitute general knowledge for missing programme facts. |
-|----|
+> **Validation focus:** Confirm every major finding is tied to a named source, unknowns are labelled, and the agent did not substitute general knowledge for missing programme facts.
 
 # Lab 10 - Researcher vs Analyst vs Chat: tool selection challenge
 
@@ -765,8 +749,7 @@ Choosing the right Copilot surface is a core skill. For each question, decide wh
 | Researcher | Multi-step synthesis across files and broader context. | Source coverage, evidence vs assumption, completeness. |
 | Analyst | Calculations, trends, correlations, code-backed data work. | Columns, filters, joins, sample size, correlation vs causation. |
 
-| **Debrief question:** For question 5, when would you run Analyst first to produce evidence, then hand it to Researcher to synthesize? Discuss chaining agents. |
-|----|
+> **Debrief question:** For question 5, when would you run Analyst first to produce evidence, then hand it to Researcher to synthesize? Discuss chaining agents.
 
 # Lab 11 - Build a knowledge agent with Agent Builder
 
@@ -910,8 +893,7 @@ Write measurable acceptance criteria, for example:
 - 100% refusal on out-of-scope or unsafe prompts
 ```
 
-| **Validation focus:** Run the same 10 questions twice. A hardened agent should give consistent, schema-conformant answers both times. Inconsistency signals weak instructions. |
-|----|
+> **Validation focus:** Run the same 10 questions twice. A hardened agent should give consistent, schema-conformant answers both times. Inconsistency signals weak instructions.
 
 # Lab 13 - Agent evaluation and red-team testing
 

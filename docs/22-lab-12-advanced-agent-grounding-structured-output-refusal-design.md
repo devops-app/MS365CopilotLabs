@@ -70,5 +70,4 @@ Write measurable acceptance criteria, for example:
 - 100% refusal on out-of-scope or unsafe prompts
 ```
 
-| **Validation focus:** Run the same 10 questions twice. A hardened agent should give consistent, schema-conformant answers both times. Inconsistency signals weak instructions. |
-|----|
+> **Validation focus:** Run the same 10 questions twice. A hardened agent should give consistent, schema-conformant answers both times. Inconsistency signals weak instructions.

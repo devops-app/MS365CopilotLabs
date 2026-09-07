@@ -18,5 +18,4 @@
 | Training data condition | Synthetic mock content only. Not real Contoso Group policy, financial, customer, patient, employee, or production data |
 | Recommended delivery | Instructor-led workshop with hands-on labs; departments can run their own track |
 
-| **Important:** This workbook is designed for classroom training. Participants must verify every Copilot output, inspect sources and calculations, and never place real confidential, regulated, personal, or production data into prompts. |
-|----|
+> **Important:** This workbook is designed for classroom training. Participants must verify every Copilot output, inspect sources and calculations, and never place real confidential, regulated, personal, or production data into prompts.

@@ -60,5 +60,4 @@ Recommended position | Owner | Decision required.
 If a field is not in the source, write 'Not stated'.
 ```
 
-| **Quality check:** Manually confirm every clause position in the summary matches the review notes and that neither audience version introduces a term the source did not state. |
-|----|
+> **Quality check:** Manually confirm every clause position in the summary matches the review notes and that neither audience version introduces a term the source did not state.

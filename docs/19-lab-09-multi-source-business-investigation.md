@@ -64,5 +64,4 @@ did you barely use, and what additional evidence would materially change the
 conclusions? List what a reviewer should verify first.
 ```
 
-| **Validation focus:** Confirm every major finding is tied to a named source, unknowns are labelled, and the agent did not substitute general knowledge for missing programme facts. |
-|----|
+> **Validation focus:** Confirm every major finding is tied to a named source, unknowns are labelled, and the agent did not substitute general knowledge for missing programme facts.

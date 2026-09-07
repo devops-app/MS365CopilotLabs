@@ -52,5 +52,4 @@ From this thread, create an action tracker table: Action | Owner or role |
 Due date if stated | Priority | Dependency | Recommended follow-up message.
 ```
 
-| **Quality check:** Before sending, verify recipients, facts, dates, and commitments. Never send mock content to real customers, and never include customer PII or payment detail in an email. |
-|----|
+> **Quality check:** Before sending, verify recipients, facts, dates, and commitments. Never send mock content to real customers, and never include customer PII or payment detail in an email.

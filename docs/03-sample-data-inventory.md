@@ -21,5 +21,4 @@ All sample files should be available in the OneDrive folder below. Reference fil
 | 13_Mock_Agent_Test_Questions.csv | All | Test questions for Agent Builder and Copilot Studio validation and red-teaming. |
 | 14_Mock_Quarterly_Business_Review_Deck.pptx | Cross-function | Source deck for PowerPoint improvement and speaker-note exercises. |
 
-| **Note:** All data is synthetic. No real Contoso Group patient, customer, employee, financial, or supplier information is included. Treat every value as illustrative and validate before use. |
-|----|
+> **Note:** All data is synthetic. No real Contoso Group patient, customer, employee, financial, or supplier information is included. Treat every value as illustrative and validate before use.

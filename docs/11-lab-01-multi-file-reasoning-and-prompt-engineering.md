@@ -70,5 +70,4 @@ Then, in plain text, list any action you were asked to invent but refused,
 and explain why.
 ```
 
-| **Debrief question:** Which single change to your prompt (role, source scoping, output contract, or the 'Not stated' rule) improved accuracy the most, and why? |
-|----|
+> **Debrief question:** Which single change to your prompt (role, source scoping, output contract, or the 'Not stated' rule) improved accuracy the most, and why?
