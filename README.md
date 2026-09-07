@@ -1,18 +1,24 @@
-# Microsoft 365 Copilot and Agent Exercises
+# Copilot Multi-Department & Multi-Industry Lab Workbook
 
-This repository contains a GitHub Pages-ready training site for Microsoft 365 Copilot and Agent workbook.
-
-## Site structure
-
-- `docs/index.md` - landing page
-- `docs/labs/` - one Markdown file per lab
-- `docs/reference/` - sample Excel workbook specification and lab-to-sample data alignment guide
-- `docs/_config.yml` - GitHub Pages configuration
+GitHub-ready Markdown edition generated from `Copilot_MultiDept_Industry_Lab_Workbook.docx`.
 
 ## Publish with GitHub Pages
 
-1. Upload this repository content to GitHub.
-2. Go to repository **Settings > Pages**.
-3. Choose **Deploy from a branch**.
-4. Select the `main` branch and `/docs` folder.
-5. Save the configuration.
+1. Copy the `docs` folder into the root of your existing repository.
+2. Commit and push.
+3. Open **Settings > Pages** in GitHub.
+4. Choose **Deploy from a branch**.
+5. Select your default branch and the **/docs** folder, then save.
+
+The landing page is `docs/index.md`. Every lab and appendix has its own Markdown file.
+
+## Included
+
+- Individual Markdown files for Labs 00-13
+- Separate Capstone file
+- Separate Appendix A-E files
+- Overview, usage guide, and sample-data inventory
+- GitHub Pages landing page and Jekyll configuration
+- `full_workbook.md` as a single-file reference
+
+> All content is synthetic training material. Verify outputs before use.
