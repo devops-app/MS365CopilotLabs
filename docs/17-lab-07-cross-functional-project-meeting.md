@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 07 - Cross-functional project meeting"
+---
+
 # Lab 07 - Cross-functional project meeting
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

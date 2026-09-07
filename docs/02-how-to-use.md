@@ -1,3 +1,8 @@
+---
+layout: default
+title: "How to use this workbook"
+---
+
 # How to use this workbook
 
 This workbook takes the proven, single-company Copilot lab format and broadens it across a whole enterprise. Instead of one department in one industry, every lab is set in a different department and a different Contoso Group business unit, so learners see how the same Copilot skills apply to healthcare, retail, manufacturing, financial services, education, and technology work.

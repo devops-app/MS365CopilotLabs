@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 04 - Customer escalation communications"
+---
+
 # Lab 04 - Customer escalation communications
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

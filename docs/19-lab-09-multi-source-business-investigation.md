@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 09 - Multi-source business investigation"
+---
+
 # Lab 09 - Multi-source business investigation
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

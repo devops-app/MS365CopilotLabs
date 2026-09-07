@@ -52,6 +52,14 @@ A GitHub Pages edition with one Markdown file per lab and appendix.
 | D | [Safety, data handling, and responsible AI](43-appendix-d-safety-data-handling-and-responsible-ai.md) |
 | E | [Skills self-assessment rubric](44-appendix-e-skills-self-assessment-rubric.md) |
 
+## Download sample data
+
+Students can grab the mock files they need from the [Sample data inventory](03-sample-data-inventory.md), or download everything at once:
+
+- [Contoso_Sample_Data.zip](Assets/Contoso_Sample_Data.zip) — all 14 mock files
+- [Full workbook (Word)](Assets/Copilot_MultiDept_Industry_Lab_Workbook.docx)
+- [Contoso PowerPoint template](Assets/Contoso_Template.pptx)
+
 ## Updating
 
 Edit files in `docs/`, commit, and push. GitHub Pages can publish directly from the `/docs` folder.

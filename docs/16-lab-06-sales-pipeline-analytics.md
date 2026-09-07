@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 06 - Sales pipeline analytics"
+---
+
 # Lab 06 - Sales pipeline analytics
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

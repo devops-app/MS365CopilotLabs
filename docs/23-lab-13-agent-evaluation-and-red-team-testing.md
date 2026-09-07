@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 13 - Agent evaluation and red-team testing"
+---
+
 # Lab 13 - Agent evaluation and red-team testing
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

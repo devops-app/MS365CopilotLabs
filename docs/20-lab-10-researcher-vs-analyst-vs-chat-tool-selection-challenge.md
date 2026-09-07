@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 10 - Researcher vs Analyst vs Chat: tool selection challenge"
+---
+
 # Lab 10 - Researcher vs Analyst vs Chat: tool selection challenge
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

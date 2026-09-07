@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Appendix A - Department and industry prompt patterns"
+---
+
 # Appendix A - Department and industry prompt patterns
 
 Use this pattern when building prompts in the labs. The right-hand column shows how the same ingredient changes across departments and industries.

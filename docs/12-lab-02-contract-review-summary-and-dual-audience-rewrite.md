@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 02 - Contract review summary and dual-audience rewrite"
+---
+
 # Lab 02 - Contract review summary and dual-audience rewrite
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

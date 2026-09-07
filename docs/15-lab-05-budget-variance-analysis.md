@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 05 - Budget variance analysis"
+---
+
 # Lab 05 - Budget variance analysis
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

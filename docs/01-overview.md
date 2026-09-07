@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Microsoft 365 Copilot Multi-Department & Multi-Industry Lab Workbook"
+---
+
 # Microsoft 365 Copilot Multi-Department & Multi-Industry Lab Workbook
 
 **CONTOSO GROUP \| MULTI-DEPARTMENT & MULTI-INDUSTRY \| MOCK DATA ONLY**

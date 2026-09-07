@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 01 - Multi-file reasoning and prompt engineering"
+---
+
 # Lab 01 - Multi-file reasoning and prompt engineering
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

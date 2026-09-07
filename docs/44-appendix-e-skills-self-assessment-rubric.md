@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Appendix E - Skills self-assessment rubric"
+---
+
 # Appendix E - Skills self-assessment rubric
 
 Rate yourself after the workshop. Aim for Proficient or above on the agent and validation rows before using Copilot for production work.

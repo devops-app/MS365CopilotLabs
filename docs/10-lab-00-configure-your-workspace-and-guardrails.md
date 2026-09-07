@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 00 - Configure your workspace and guardrails"
+---
+
 # Lab 00 - Configure your workspace and guardrails
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

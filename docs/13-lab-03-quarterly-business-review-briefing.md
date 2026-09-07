@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 03 - Quarterly business review briefing"
+---
+
 # Lab 03 - Quarterly business review briefing
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

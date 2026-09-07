@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Appendix B - Industry considerations"
+---
+
 # Appendix B - Industry considerations
 
 Each business unit carries different sensitivities. Remind learners to adapt tone, data handling, and validation accordingly.

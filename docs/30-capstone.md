@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Capstone - Cross-department leadership briefing pack"
+---
+
 # Capstone - Cross-department leadership briefing pack
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 08 - Deep data analysis with the Analyst agent"
+---
+
 # Lab 08 - Deep data analysis with the Analyst agent
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

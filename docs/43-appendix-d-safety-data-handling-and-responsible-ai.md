@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Appendix D - Safety, data handling, and responsible AI"
+---
+
 # Appendix D - Safety, data handling, and responsible AI
 
 - Use only the mock documents provided for the training.

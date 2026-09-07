@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 11 - Build a knowledge agent with Agent Builder"
+---
+
 # Lab 11 - Build a knowledge agent with Agent Builder
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lab 12 - Advanced agent: grounding, structured output, refusal design"
+---
+
 # Lab 12 - Advanced agent: grounding, structured output, refusal design
 
 | **Level** | **Duration** | **Primary apps** | **Sample files** |

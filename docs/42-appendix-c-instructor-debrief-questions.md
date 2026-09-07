@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Appendix C - Instructor debrief questions"
+---
+
 # Appendix C - Instructor debrief questions
 
 - Which app or agent produced the most immediately useful output for your department, and why?
