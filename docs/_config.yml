@@ -2,3 +2,10 @@ title: Copilot Multi-Department Lab Workbook
 description: GitHub Pages edition of the Contoso Group Microsoft 365 Copilot lab workbook
 markdown: kramdown
 theme: minima
+nav:
+  - [Overview, 01-overview.html]
+  - [How to use, 02-how-to-use.html]
+  - [Sample data, 03-sample-data-inventory.html]
+  - [Labs, index.html#labs]
+  - [Capstone, 30-capstone.html]
+  - [Appendices, index.html#appendices]
