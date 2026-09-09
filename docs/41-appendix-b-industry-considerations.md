@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Appendix B - Industry considerations"
+title: "Appendix B — Industry considerations"
 ---
 
-# Appendix B - Industry considerations
+# Appendix B — Industry considerations
 
 Each business unit carries different sensitivities. Remind learners to adapt tone, data handling, and validation accordingly.
 
-| **Business unit / industry** | **Watch-outs in prompts and outputs** |
-|----|----|
+| Business unit / industry | Watch-outs in prompts and outputs |
+| --- | --- |
 | Contoso HealthCare (Healthcare) | Never use patient data; treat clinical content as restricted; validate any care-related statement with a professional. |
 | Contoso Financial (Financial Services) | No KYC/AML, account, or payment data; be careful with any figure that implies advice; log decisions. |
 | Contoso Retail (Retail) | Protect customer PII and loyalty data; watch margin claims; keep promotional copy truthful. |

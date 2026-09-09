@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Appendix A - Department and industry prompt patterns"
+title: "Appendix A — Department and industry prompt patterns"
 ---
 
-# Appendix A - Department and industry prompt patterns
+# Appendix A — Department and industry prompt patterns
 
 Use this pattern when building prompts in the labs. The right-hand column shows how the same ingredient changes across departments and industries.
 
-| **Ingredient** | **Question it answers** | **Cross-department example** |
-|----|----|----|
+| Ingredient | Question it answers | Cross-department example |
+| --- | --- | --- |
 | Role | Who should Copilot act as? | HR partner / FinOps analyst / sales manager / compliance reviewer. |
 | Context | Why do you need this? | Preparing a QBR / handling an escalation / reviewing a vendor MSA. |
 | Goal | What should Copilot do? | Summarize, analyze, draft, or recommend an action. |
@@ -19,7 +19,7 @@ Use this pattern when building prompts in the labs. The right-hand column shows 
 
 ## Reusable prompt scaffold
 
-```
+```text
 Act as a [role in a named department].
 Context: [why this matters for this business unit].
 Using [source files], create [specific output].
