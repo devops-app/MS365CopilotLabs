@@ -57,7 +57,7 @@ Eight departments are represented. Seven own a dedicated lab: HR in Lab 01, Lega
 | Agents advanced | Lab 12–13 | Grounding, structured output, refusal design, red-team evaluation |
 | Capstone | Capstone | Cross-department leadership briefing pack |
 
-Delivered end to end, the labs and capstone total roughly seven and a half hours of hands-on time — closer to eight once the forecasting and what-if exercises in Labs 05 and 06 are included — which is more than most groups absorb in one sitting. Three schedules work well. A two-hour taster covers Lab 00, one department lab chosen for the audience, and Lab 10. A full-day workshop covers Labs 00 to 07 in the morning and Labs 08 to 11 plus the capstone in the afternoon, choosing either Lab 05 or Lab 06 rather than both. A two-half-day format puts the productivity core on day one and the agents track, including Labs 12 and 13, on day two. Add about fifteen minutes per lab for debrief in a room of more than twenty people, and about ten minutes to whichever of Labs 05 and 06 you run if you include its scenario exercise.
+Delivered end to end, the labs and capstone total roughly seven and a half hours of hands-on time — closer to eight and a quarter once the daily triage exercise in Lab 04 and the forecasting and what-if exercises in Labs 05 and 06 are included — which is more than most groups absorb in one sitting. Three schedules work well. A two-hour taster covers Lab 00, one department lab chosen for the audience, and Lab 10. A full-day workshop covers Labs 00 to 07 in the morning and Labs 08 to 11 plus the capstone in the afternoon, choosing either Lab 05 or Lab 06 rather than both. A two-half-day format puts the productivity core on day one and the agents track, including Labs 12 and 13, on day two. Add about fifteen minutes per lab for debrief in a room of more than twenty people, about ten minutes to Lab 04 if you run the daily triage exercise, and about ten minutes to whichever of Labs 05 and 06 you run if you include its scenario exercise.
 
 ## Full lab index
 
@@ -67,7 +67,7 @@ Delivered end to end, the labs and capstone total roughly seven and a half hours
 | 01 | Multi-file reasoning and prompt engineering | HR / cross-function | Copilot Chat | 200 | 25 min |
 | 02 | Contract review summary and dual-audience rewrite | Legal / Technology | Word | 200 | 30 min |
 | 03 | Quarterly business review briefing | Marketing / Retail | PowerPoint | 200 | 25 min |
-| 04 | Customer escalation communications | Customer Service / Financial | Outlook | 200 | 25 min |
+| 04 | Customer escalation communications | Customer Service / Financial | Outlook | 200 | 35 min |
 | 05 | Budget variance analysis | Finance / Manufacturing | Excel | 300 | 35 min |
 | 06 | Sales pipeline analytics | Sales / Technology | Excel | 300 | 35 min |
 | 07 | Cross-functional project meeting | Operations / cross-function | Teams | 200 | 30 min |

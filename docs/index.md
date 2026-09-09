@@ -25,7 +25,7 @@ A GitHub Pages edition with one Markdown file per lab and appendix.
 | 01 | [Multi-file reasoning and prompt engineering](11-lab-01-multi-file-reasoning-and-prompt-engineering.md) | HR / cross-function | Copilot Chat | 200 | 25 min |
 | 02 | [Contract review summary and dual-audience rewrite](12-lab-02-contract-review-summary-and-dual-audience-rewrite.md) | Legal / Technology | Word | 200 | 30 min |
 | 03 | [Quarterly business review briefing](13-lab-03-quarterly-business-review-briefing.md) | Marketing / Retail | PowerPoint | 200 | 25 min |
-| 04 | [Customer escalation communications](14-lab-04-customer-escalation-communications.md) | Customer Service / Financial | Outlook | 200 | 25 min |
+| 04 | [Customer escalation communications](14-lab-04-customer-escalation-communications.md) | Customer Service / Financial | Outlook | 200 | 35 min |
 | 05 | [Budget variance analysis](15-lab-05-budget-variance-analysis.md) | Finance / Manufacturing | Excel | 300 | 35 min |
 | 06 | [Sales pipeline analytics](16-lab-06-sales-pipeline-analytics.md) | Sales / Technology | Excel | 300 | 35 min |
 | 07 | [Cross-functional project meeting](17-lab-07-cross-functional-project-meeting.md) | Operations / cross-function | Teams | 200 | 30 min |
